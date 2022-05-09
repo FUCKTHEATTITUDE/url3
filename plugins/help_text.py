@@ -51,5 +51,5 @@ async def start(bot, message):
                 ]
             ]
         ),
-    reply_to_message_id=message.chat_id
+    reply_to_message_id=message_id
   )
