@@ -51,5 +51,5 @@ async def start(bot, message):
                 ]
             ]
         ),
-    reply_to_message_id=message.message_id
+    reply_to_message_id=update.message_id
   )
