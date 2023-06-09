@@ -15,7 +15,6 @@ motor
 dnspython
 lk21
 TgCrypto
-git+https://github.com/Itz-fork/pyro-mega.py.git
 hurry.filesize
 filetype
 ffmpeg
